@@ -1,3 +1,4 @@
 [submodule "hidapi"]
 	path = hidapi
-	url = https://github.com/signal11/hidapi.git
+	url = ssh://git@github.com/AdvancedFarm/hidapi.git
+	branch = master
